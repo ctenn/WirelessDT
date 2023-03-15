@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{5E24DB39-4214-A64C-66DB-07920213A5DD}",
+	"EngineAssociation": "{D5FFE7AE-40BA-19E3-CDDC-A29CF697609A}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -25,6 +25,10 @@
 			"Name": "KantanCharts",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/89bd18db011b4bd19606db2e31020f13"
+		},
+		{
+			"Name": "PixelStreaming",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
